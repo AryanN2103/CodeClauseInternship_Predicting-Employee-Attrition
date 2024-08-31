@@ -1,1 +1,2 @@
 # CodeClauseInternship_Predicting-Employee-Attrition
+To predict employee attrition, collect and preprocess relevant employee data, including demographics and job details. Use this data to train a machine learning model (e.g., logistic regression, decision trees) that identifies key factors influencing attrition. Finally, evaluate the model's accuracy and refine it to improve predictive performance.
